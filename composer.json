@@ -1,0 +1,22 @@
+{
+    "name": "mremi/bootstrap-bundle",
+    "type": "symfony-bundle",
+    "description": "A simple way to add the Bootstrap framework in a Symfony2 project",
+    "keywords": ["Symfony2", "Bootstrap", "CSS", "JavaScript"],
+    "homepage": "https://github.com/mremi/BootstrapBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rémi Marseille",
+            "email": "marseille.remi@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/framework-bundle": "~2.3"
+    },
+    "autoload": {
+        "psr-0": { "Mremi\\BootstrapBundle": "" }
+    },
+    "target-dir": "Mremi/BootstrapBundle"
+}
