@@ -1,6 +1,9 @@
 MremiBootstrapBundle
 ====================
 
+[![Total Downloads](https://poser.pugx.org/mremi/bootstrap-bundle/downloads.png)](https://packagist.org/packages/mremi/bootstrap-bundle)
+[![Latest Stable Version](https://poser.pugx.org/mremi/bootstrap-bundle/v/stable.png)](https://packagist.org/packages/mremi/bootstrap-bundle)
+
 This bundle is a simple way to add the Bootstrap framework in a Symfony2
 project.
 
