@@ -7,6 +7,10 @@ MremiBootstrapBundle
 This bundle is a simple way to add the Bootstrap framework in a Symfony2
 project.
 
+## License
+
+This bundle is available under the [MIT license](Resources/meta/LICENSE).
+
 ## Prerequisites
 
 This version of the bundle requires Symfony 2.3+.
